@@ -1,6 +1,8 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Lord-God Mode Mad Skillz #gg50ez
 by alCoPaUL, beth GviLLErMo [GIMO], Brigada Ocho [b8]
+8/30/2025 3:43 PM EDT
+New York City
 
 ~ zip the godmode folder (GodMode.{ed7ba470-8e54-465e-825c-99712043e01c})
 ~ open the zipped godmode folder with winrar (or whatever zip software you wanna use)
@@ -8,4 +10,5 @@ by alCoPaUL, beth GviLLErMo [GIMO], Brigada Ocho [b8]
 ~ extract the godmode folder
 ~ files inside the godmode folder cannot be opened in File Explorer by double clicking it... 
   (but pretty sure you can via your illegal dirty shitty shits (you say "ouch", you got udped.)
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
